@@ -1,0 +1,78 @@
+{
+  "packages": [
+    {
+      "name": "main",
+      "root": "",
+      "include": [
+        "assets/main.scene",
+        "assets/script",
+        "assets/resources/prefab/ui/main",
+        "assets/resources/prefab/ui/game",
+        "assets/resources/prefab/ui/gameOver",
+        "assets/resources/prefab/ui/common",
+        "assets/resources/prefab/ui/close",
+        "assets/resources/prefab/ui/resurrection",
+        "assets/resources/prefab/ui/setting",
+        "assets/resources/prefab/model/role/girl1.prefab",
+        "assets/resources/prefab/model/role/girl2.prefab",
+        "assets/resources/prefab/model/role/girl3.prefab",
+        "assets/resources/prefab/model/role/girl4.prefab",
+        "assets/resources/prefab/model/brick/brick0.prefab",
+        "assets/resources/prefab/model/brick/brickInRoad.prefab",
+        "assets/resources/prefab/model/road/1001.prefab",
+        "assets/resources/prefab/model/road/1002.prefab",
+        "assets/resources/prefab/model/road/1003.prefab",
+        "assets/resources/prefab/model/road/1004.prefab",
+        "assets/resources/prefab/model/road/1010.prefab",
+        "assets/resources/prefab/model/road/1011.prefab",
+        "assets/resources/effect/brickSet.prefab",
+        "assets/resources/effect/colorBar.prefab",
+        "assets/resources/effect/activation.prefab",
+        "assets/resources/datas/map1.csv",
+        "assets/resources/datas/module.csv",
+        "assets/resources/aiWayData/aiWay1.json",
+        "assets/resources/audio/sound/click.mp3",
+        "assets/resources/audio/sound/jump.mp3",
+        "assets/resources/audio/sound/dead.mp3",
+        "assets/resources/audio/sound/win.mp3"
+      ],
+      "exclude": []
+    },
+    {
+      "name": "level2",
+      "root": "assets/resources/datas/map2",
+      "include": [
+        "assets/resources/datas/map2.csv",
+        "assets/resources/aiWayData/aiWay2.json",
+        "assets/resources/prefab/model/road/1005.prefab",
+        "assets/resources/prefab/model/road/1006.prefab",
+        "assets/resources/prefab/model/road/1007.prefab",
+        "assets/resources/prefab/model/road/1008.prefab"
+      ],
+      "exclude": []
+    },
+    {
+      "name": "sounds",
+      "root": "assets/resources/audio",
+      "include": [
+        "assets/resources/audio/sound/bump.mp3",
+        "assets/resources/audio/sound/countdown.mp3",
+        "assets/resources/audio/sound/countdownEnd.mp3",
+        "assets/resources/audio/sound/fall.mp3",
+        "assets/resources/audio/sound/getBrick1.mp3",
+        "assets/resources/audio/sound/getBrick2.mp3",
+        "assets/resources/audio/sound/getBrick3.mp3",
+        "assets/resources/audio/sound/getBrick4.mp3",
+        "assets/resources/audio/sound/getBrick5.mp3",
+        "assets/resources/audio/sound/getDiamond.mp3",
+        "assets/resources/audio/sound/putBrick.mp3",
+        "assets/resources/audio/sound/rewardMul1.mp3",
+        "assets/resources/audio/sound/rewardMul2.mp3",
+        "assets/resources/audio/sound/rewardMul3.mp3",
+        "assets/resources/audio/sound/rewardMul4.mp3",
+        "assets/resources/audio/sound/runFast.mp3"
+      ],
+      "exclude": []
+    }
+  ]
+}
