@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "280ab13d-a795-47cd-8975-2ef99f6617a1",
+  "files": [],
+  "subMetas": {
+    "28240": {
+      "importer": "gltf-mesh",
+      "uuid": "280ab13d-a795-47cd-8975-2ef99f6617a1@28240",
+      "displayName": "",
+      "id": "28240",
+      "name": "skyscraper_002.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 4290
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4f45": {
+      "importer": "gltf-embeded-image",
+      "uuid": "280ab13d-a795-47cd-8975-2ef99f6617a1@d4f45",
+      "displayName": "",
+      "id": "d4f45",
+      "name": "Map #2.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "280ab13d-a795-47cd-8975-2ef99f6617a1@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "280ab13d-a795-47cd-8975-2ef99f6617a1@d4f45"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57c63": {
+      "importer": "gltf-material",
+      "uuid": "280ab13d-a795-47cd-8975-2ef99f6617a1@57c63",
+      "displayName": "",
+      "id": "57c63",
+      "name": "LowPolyMegapolis_MAIN.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b42c7": {
+      "importer": "gltf-scene",
+      "uuid": "280ab13d-a795-47cd-8975-2ef99f6617a1@b42c7",
+      "displayName": "",
+      "id": "b42c7",
+      "name": "skyscraper_010.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "280ab13d-a795-47cd-8975-2ef99f6617a1@d4f45"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "280ab13d-a795-47cd-8975-2ef99f6617a1@28240"
+      ],
+      "skeletons": [],
+      "textures": [
+        "280ab13d-a795-47cd-8975-2ef99f6617a1@1da29"
+      ],
+      "materials": [
+        "280ab13d-a795-47cd-8975-2ef99f6617a1@57c63"
+      ],
+      "scenes": [
+        "280ab13d-a795-47cd-8975-2ef99f6617a1@b42c7"
+      ]
+    }
+  }
+}

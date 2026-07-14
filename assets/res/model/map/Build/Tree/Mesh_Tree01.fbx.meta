@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5",
+  "files": [],
+  "subMetas": {
+    "3c887": {
+      "importer": "gltf-mesh",
+      "uuid": "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5@3c887",
+      "displayName": "",
+      "id": "3c887",
+      "name": "Mesh_Tree01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 268
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "312d1": {
+      "importer": "gltf-scene",
+      "uuid": "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5@312d1",
+      "displayName": "",
+      "id": "312d1",
+      "name": "Mesh_Tree01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5@3c887"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5@8d883"
+      ],
+      "scenes": [
+        "0f6d8457-d985-4bfd-865e-0eff9f3a2fa5@312d1"
+      ]
+    }
+  }
+}

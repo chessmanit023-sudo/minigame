@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6205812b-3145-4141-80fe-aecaaec9e302",
+  "files": [],
+  "subMetas": {
+    "36647": {
+      "importer": "texture",
+      "uuid": "6205812b-3145-4141-80fe-aecaaec9e302@36647",
+      "displayName": "",
+      "id": "36647",
+      "name": "LowPolyMegapolis_Texture_01_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6205812b-3145-4141-80fe-aecaaec9e302@07d7d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e30db": {
+      "importer": "gltf-mesh",
+      "uuid": "6205812b-3145-4141-80fe-aecaaec9e302@e30db",
+      "displayName": "",
+      "id": "e30db",
+      "name": "Building_Obj03.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1198
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07d7d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6205812b-3145-4141-80fe-aecaaec9e302@07d7d",
+      "displayName": "",
+      "id": "07d7d",
+      "name": "LowPolyMegapolis_Texture_01_1.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "8940c": {
+      "importer": "gltf-material",
+      "uuid": "6205812b-3145-4141-80fe-aecaaec9e302@8940c",
+      "displayName": "",
+      "id": "8940c",
+      "name": "DaLou1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba9db": {
+      "importer": "gltf-scene",
+      "uuid": "6205812b-3145-4141-80fe-aecaaec9e302@ba9db",
+      "displayName": "",
+      "id": "ba9db",
+      "name": "Building_Obj03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "LowPolyMegapolis_Texture_01_1",
+        "uri": "6205812b-3145-4141-80fe-aecaaec9e302@07d7d"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6205812b-3145-4141-80fe-aecaaec9e302@e30db"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6205812b-3145-4141-80fe-aecaaec9e302@36647"
+      ],
+      "materials": [
+        "6205812b-3145-4141-80fe-aecaaec9e302@8940c"
+      ],
+      "scenes": [
+        "6205812b-3145-4141-80fe-aecaaec9e302@ba9db"
+      ]
+    }
+  }
+}

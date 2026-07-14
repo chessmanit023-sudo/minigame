@@ -1,0 +1,13 @@
+# Cocos Creator generated / cache directories
+/library/
+/temp/
+/local/
+/build/
+/profiles/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

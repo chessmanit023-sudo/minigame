@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cfa7624a-a4c2-47e7-b553-2584ed46e546",
+  "files": [],
+  "subMetas": {
+    "e234a": {
+      "importer": "gltf-mesh",
+      "uuid": "cfa7624a-a4c2-47e7-b553-2584ed46e546@e234a",
+      "displayName": "",
+      "id": "e234a",
+      "name": "skyscraper_003.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 65
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c34e7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cfa7624a-a4c2-47e7-b553-2584ed46e546@c34e7",
+      "displayName": "",
+      "id": "c34e7",
+      "name": "贴图 #5.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "eb794": {
+      "importer": "texture",
+      "uuid": "cfa7624a-a4c2-47e7-b553-2584ed46e546@eb794",
+      "displayName": "",
+      "id": "eb794",
+      "name": "贴图 #5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cfa7624a-a4c2-47e7-b553-2584ed46e546@c34e7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe2a7": {
+      "importer": "gltf-material",
+      "uuid": "cfa7624a-a4c2-47e7-b553-2584ed46e546@fe2a7",
+      "displayName": "",
+      "id": "fe2a7",
+      "name": "Material #207.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e33b0": {
+      "importer": "gltf-scene",
+      "uuid": "cfa7624a-a4c2-47e7-b553-2584ed46e546@e33b0",
+      "displayName": "",
+      "id": "e33b0",
+      "name": "skyscraper_003.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #5",
+        "uri": "cfa7624a-a4c2-47e7-b553-2584ed46e546@c34e7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "cfa7624a-a4c2-47e7-b553-2584ed46e546@e234a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cfa7624a-a4c2-47e7-b553-2584ed46e546@eb794"
+      ],
+      "materials": [
+        "cfa7624a-a4c2-47e7-b553-2584ed46e546@fe2a7"
+      ],
+      "scenes": [
+        "cfa7624a-a4c2-47e7-b553-2584ed46e546@e33b0"
+      ]
+    }
+  }
+}

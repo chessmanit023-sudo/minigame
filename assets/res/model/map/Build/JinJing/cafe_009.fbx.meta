@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9f556cad-b4dd-4a0e-8e51-65a4a630681b",
+  "files": [],
+  "subMetas": {
+    "2ac81": {
+      "importer": "gltf-mesh",
+      "uuid": "9f556cad-b4dd-4a0e-8e51-65a4a630681b@2ac81",
+      "displayName": "",
+      "id": "2ac81",
+      "name": "cafe_009.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 726
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b7c8": {
+      "importer": "gltf-scene",
+      "uuid": "9f556cad-b4dd-4a0e-8e51-65a4a630681b@4b7c8",
+      "displayName": "",
+      "id": "4b7c8",
+      "name": "cafe_009.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9f556cad-b4dd-4a0e-8e51-65a4a630681b@2ac81"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9f556cad-b4dd-4a0e-8e51-65a4a630681b@4b7c8"
+      ]
+    }
+  }
+}

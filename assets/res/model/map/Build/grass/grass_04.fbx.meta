@@ -1,0 +1,154 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "799caabf-a47f-4226-82ad-b5c0b6f10f32",
+  "files": [],
+  "subMetas": {
+    "83833": {
+      "importer": "gltf-mesh",
+      "uuid": "799caabf-a47f-4226-82ad-b5c0b6f10f32@83833",
+      "displayName": "",
+      "id": "83833",
+      "name": "510灌木_花灌木_05.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 740
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67be6": {
+      "importer": "texture",
+      "uuid": "799caabf-a47f-4226-82ad-b5c0b6f10f32@67be6",
+      "displayName": "",
+      "id": "67be6",
+      "name": "Map #13.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_01.TGA"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9fc15": {
+      "importer": "texture",
+      "uuid": "799caabf-a47f-4226-82ad-b5c0b6f10f32@9fc15",
+      "displayName": "",
+      "id": "9fc15",
+      "name": "Map #14.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_01.TGA"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "230c8": {
+      "importer": "gltf-material",
+      "uuid": "799caabf-a47f-4226-82ad-b5c0b6f10f32@230c8",
+      "displayName": "",
+      "id": "230c8",
+      "name": "510灌木_花灌木_01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b9ca": {
+      "importer": "gltf-scene",
+      "uuid": "799caabf-a47f-4226-82ad-b5c0b6f10f32@4b9ca",
+      "displayName": "",
+      "id": "4b9ca",
+      "name": "grass_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #13",
+        "uri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_01.TGA"
+      },
+      {
+        "name": "Map #14",
+        "uri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_01.TGA"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "799caabf-a47f-4226-82ad-b5c0b6f10f32@83833"
+      ],
+      "skeletons": [],
+      "textures": [
+        "799caabf-a47f-4226-82ad-b5c0b6f10f32@67be6",
+        "799caabf-a47f-4226-82ad-b5c0b6f10f32@9fc15"
+      ],
+      "materials": [
+        "799caabf-a47f-4226-82ad-b5c0b6f10f32@230c8"
+      ],
+      "scenes": [
+        "799caabf-a47f-4226-82ad-b5c0b6f10f32@4b9ca"
+      ]
+    }
+  }
+}

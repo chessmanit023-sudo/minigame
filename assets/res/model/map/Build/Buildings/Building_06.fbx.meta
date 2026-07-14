@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1ec65230-5bc7-4909-b343-c62d44acdea2",
+  "files": [],
+  "subMetas": {
+    "53972": {
+      "importer": "gltf-mesh",
+      "uuid": "1ec65230-5bc7-4909-b343-c62d44acdea2@53972",
+      "displayName": "",
+      "id": "53972",
+      "name": "Building_06.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1874
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01ccb": {
+      "importer": "gltf-material",
+      "uuid": "1ec65230-5bc7-4909-b343-c62d44acdea2@01ccb",
+      "displayName": "",
+      "id": "01ccb",
+      "name": "Mat_Building_06.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4769d": {
+      "importer": "gltf-scene",
+      "uuid": "1ec65230-5bc7-4909-b343-c62d44acdea2@4769d",
+      "displayName": "",
+      "id": "4769d",
+      "name": "Building_06.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1ec65230-5bc7-4909-b343-c62d44acdea2@53972"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1ec65230-5bc7-4909-b343-c62d44acdea2@01ccb"
+      ],
+      "scenes": [
+        "1ec65230-5bc7-4909-b343-c62d44acdea2@4769d"
+      ]
+    }
+  }
+}

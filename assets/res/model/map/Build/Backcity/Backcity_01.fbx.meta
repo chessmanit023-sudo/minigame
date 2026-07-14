@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb",
+  "files": [],
+  "subMetas": {
+    "53297": {
+      "importer": "gltf-material",
+      "uuid": "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@53297",
+      "displayName": "",
+      "id": "53297",
+      "name": "Back_Ground_Mat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34b73": {
+      "importer": "gltf-mesh",
+      "uuid": "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@34b73",
+      "displayName": "",
+      "id": "34b73",
+      "name": "Backcity_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 128
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/map/Build/Backcity/Backcity_01.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c95b0": {
+      "importer": "gltf-scene",
+      "uuid": "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@c95b0",
+      "displayName": "",
+      "id": "c95b0",
+      "name": "Backcity_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file2",
+        "uri": "db://assets/res/model/map/Build/Backcity/Backcity_01.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@34b73"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@e873a"
+      ],
+      "materials": [
+        "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@53297"
+      ],
+      "scenes": [
+        "0cc3a89f-6752-4fbf-ba7a-479b52a47ffb@c95b0"
+      ]
+    }
+  }
+}

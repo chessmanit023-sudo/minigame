@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b749bf30-a4aa-40bd-82ce-971ef2378956",
+  "files": [],
+  "subMetas": {
+    "71531": {
+      "importer": "gltf-mesh",
+      "uuid": "b749bf30-a4aa-40bd-82ce-971ef2378956@71531",
+      "displayName": "",
+      "id": "71531",
+      "name": "stadium_001.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1002
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee6f6": {
+      "importer": "gltf-scene",
+      "uuid": "b749bf30-a4aa-40bd-82ce-971ef2378956@ee6f6",
+      "displayName": "",
+      "id": "ee6f6",
+      "name": "stadium_001.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b749bf30-a4aa-40bd-82ce-971ef2378956@71531"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b749bf30-a4aa-40bd-82ce-971ef2378956@ee6f6"
+      ]
+    }
+  }
+}

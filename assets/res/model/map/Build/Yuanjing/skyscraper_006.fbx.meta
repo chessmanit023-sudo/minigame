@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab",
+  "files": [],
+  "subMetas": {
+    "736b9": {
+      "importer": "gltf-mesh",
+      "uuid": "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab@736b9",
+      "displayName": "",
+      "id": "736b9",
+      "name": "skyscraper_006.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 110
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bdeae": {
+      "importer": "gltf-scene",
+      "uuid": "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab@bdeae",
+      "displayName": "",
+      "id": "bdeae",
+      "name": "skyscraper_006.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab@736b9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab@7a3ca"
+      ],
+      "scenes": [
+        "8cc32fb2-a778-4eab-a3fc-6c24b28a28ab@bdeae"
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c51d9939-19d5-4080-b4d1-1a70481452e9",
+  "files": [],
+  "subMetas": {
+    "1afd8": {
+      "importer": "gltf-mesh",
+      "uuid": "c51d9939-19d5-4080-b4d1-1a70481452e9@1afd8",
+      "displayName": "",
+      "id": "1afd8",
+      "name": "FireStation_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1207
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4f45": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c51d9939-19d5-4080-b4d1-1a70481452e9@d4f45",
+      "displayName": "",
+      "id": "d4f45",
+      "name": "Map #2.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "c51d9939-19d5-4080-b4d1-1a70481452e9@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c51d9939-19d5-4080-b4d1-1a70481452e9@d4f45"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57c63": {
+      "importer": "gltf-material",
+      "uuid": "c51d9939-19d5-4080-b4d1-1a70481452e9@57c63",
+      "displayName": "",
+      "id": "57c63",
+      "name": "LowPolyMegapolis_MAIN.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2737e": {
+      "importer": "gltf-scene",
+      "uuid": "c51d9939-19d5-4080-b4d1-1a70481452e9@2737e",
+      "displayName": "",
+      "id": "2737e",
+      "name": "FireStation_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "c51d9939-19d5-4080-b4d1-1a70481452e9@d4f45"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c51d9939-19d5-4080-b4d1-1a70481452e9@1afd8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c51d9939-19d5-4080-b4d1-1a70481452e9@1da29"
+      ],
+      "materials": [
+        "c51d9939-19d5-4080-b4d1-1a70481452e9@57c63"
+      ],
+      "scenes": [
+        "c51d9939-19d5-4080-b4d1-1a70481452e9@2737e"
+      ]
+    }
+  }
+}

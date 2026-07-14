@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e8e420b9-ec97-4f7b-8d95-406fc7046189",
+  "files": [],
+  "subMetas": {
+    "54982": {
+      "importer": "gltf-scene",
+      "uuid": "e8e420b9-ec97-4f7b-8d95-406fc7046189@54982",
+      "displayName": "",
+      "id": "54982",
+      "name": "house_small_1_010.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb561": {
+      "importer": "gltf-mesh",
+      "uuid": "e8e420b9-ec97-4f7b-8d95-406fc7046189@cb561",
+      "displayName": "",
+      "id": "cb561",
+      "name": "house_small_1_010.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1405
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e8e420b9-ec97-4f7b-8d95-406fc7046189@cb561"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e8e420b9-ec97-4f7b-8d95-406fc7046189@54982"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b996bc39-7e5f-4b79-944d-ad9c0a937e9c",
+  "files": [],
+  "subMetas": {
+    "78264": {
+      "importer": "gltf-mesh",
+      "uuid": "b996bc39-7e5f-4b79-944d-ad9c0a937e9c@78264",
+      "displayName": "",
+      "id": "78264",
+      "name": "LuPai_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 172
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d08f": {
+      "importer": "gltf-material",
+      "uuid": "b996bc39-7e5f-4b79-944d-ad9c0a937e9c@9d08f",
+      "displayName": "",
+      "id": "9d08f",
+      "name": "Mat_LuPai_01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2661": {
+      "importer": "gltf-scene",
+      "uuid": "b996bc39-7e5f-4b79-944d-ad9c0a937e9c@f2661",
+      "displayName": "",
+      "id": "f2661",
+      "name": "LuPai_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b996bc39-7e5f-4b79-944d-ad9c0a937e9c@78264"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b996bc39-7e5f-4b79-944d-ad9c0a937e9c@9d08f"
+      ],
+      "scenes": [
+        "b996bc39-7e5f-4b79-944d-ad9c0a937e9c@f2661"
+      ]
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "552618f2-d214-49bc-8820-a01501905a98",
+  "files": [],
+  "subMetas": {
+    "58717": {
+      "importer": "texture",
+      "uuid": "552618f2-d214-49bc-8820-a01501905a98@58717",
+      "displayName": "",
+      "id": "58717",
+      "name": "Map #64.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_04.TGA"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35c9a": {
+      "importer": "gltf-mesh",
+      "uuid": "552618f2-d214-49bc-8820-a01501905a98@35c9a",
+      "displayName": "",
+      "id": "35c9a",
+      "name": "510灌木_花灌木_15.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 24
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9df47": {
+      "importer": "texture",
+      "uuid": "552618f2-d214-49bc-8820-a01501905a98@9df47",
+      "displayName": "",
+      "id": "9df47",
+      "name": "Map #63.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_04.TGA"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2768": {
+      "importer": "gltf-material",
+      "uuid": "552618f2-d214-49bc-8820-a01501905a98@a2768",
+      "displayName": "",
+      "id": "a2768",
+      "name": "510灌木_花灌木_04.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb029": {
+      "importer": "gltf-scene",
+      "uuid": "552618f2-d214-49bc-8820-a01501905a98@cb029",
+      "displayName": "",
+      "id": "cb029",
+      "name": "grass_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #63",
+        "uri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_04.TGA"
+      },
+      {
+        "name": "Map #64",
+        "uri": "db://assets/res/model/map/Build/grass/510灌木_花灌木_04.TGA"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "552618f2-d214-49bc-8820-a01501905a98@35c9a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "552618f2-d214-49bc-8820-a01501905a98@9df47",
+        "552618f2-d214-49bc-8820-a01501905a98@58717"
+      ],
+      "materials": [
+        "552618f2-d214-49bc-8820-a01501905a98@a2768"
+      ],
+      "scenes": [
+        "552618f2-d214-49bc-8820-a01501905a98@cb029"
+      ]
+    },
+    "materials": {
+      "552618f2-d214-49bc-8820-a01501905a98@a2768": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "__editorExtras__": {},
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "a7612b54-35e3-4238-a1a9-4a7b54635839",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_BASE_COLOR_MAP": true
+          },
+          {
+            "USE_1ST_SHADE_MAP": true,
+            "USE_2ND_SHADE_MAP": true
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {
+              "isDiscard": true
+            },
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "baseColorMap": {
+              "__uuid__": "1023d14e-e9b2-4376-a059-1a4691c1a86e@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 163,
+              "g": 163,
+              "b": 163,
+              "a": 255
+            },
+            "shadowCover": 0.388,
+            "shadeMap1": {
+              "__uuid__": "1023d14e-e9b2-4376-a059-1a4691c1a86e@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "shadeMap2": {
+              "__uuid__": "1023d14e-e9b2-4376-a059-1a4691c1a86e@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}
